@@ -1,0 +1,1738 @@
+{
+  "currency_name": "Monete Giudice",
+  "scoring": {
+    "correct": 500,
+    "wrong": -100
+  },
+  "help_cost_default": 100,
+  "categories": [
+    {
+      "id": "civili_1",
+      "title": "Casi Civili (generale)",
+      "unlocked_by_default": true,
+      "unlock_cost": 0,
+      "cases": [
+        {
+          "id": "civili_001",
+          "title": "Condominio con rumori molesti",
+          "description": "Caso reale adattato: Condominio con rumori molesti. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "civili_002",
+          "title": "Stalking condominiale",
+          "description": "Caso reale adattato: Stalking condominiale. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "civili_003",
+          "title": "Bullismo in ambito scolastico",
+          "description": "Caso reale adattato: Bullismo in ambito scolastico. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "civili_004",
+          "title": "Controversia per confine terreno",
+          "description": "Caso reale adattato: Controversia per confine terreno. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "civili_005",
+          "title": "Inadempimento contrattuale",
+          "description": "Caso reale adattato: Inadempimento contrattuale. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "civili_006",
+          "title": "Danno da perdita d'acqua",
+          "description": "Caso reale adattato: Danno da perdita d'acqua. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "civili_007",
+          "title": "Ritardo consegna online",
+          "description": "Caso reale adattato: Ritardo consegna online. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "civili_008",
+          "title": "Diffamazione su social",
+          "description": "Caso reale adattato: Diffamazione su social. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "civili_009",
+          "title": "Infortunio in negozio",
+          "description": "Caso reale adattato: Infortunio in negozio. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "civili_010",
+          "title": "Acconto non restituito",
+          "description": "Caso reale adattato: Acconto non restituito. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        }
+      ]
+    },
+    {
+      "id": "separazioni",
+      "title": "Separazioni e Affidamenti",
+      "unlocked_by_default": false,
+      "unlock_cost": 1500,
+      "cases": [
+        {
+          "id": "separazioni_001",
+          "title": "Affidamento condiviso complesso",
+          "description": "Caso reale adattato: Affidamento condiviso complesso. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "separazioni_002",
+          "title": "Divisione immobile",
+          "description": "Caso reale adattato: Divisione immobile. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "separazioni_003",
+          "title": "Mantenimento figli",
+          "description": "Caso reale adattato: Mantenimento figli. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "separazioni_004",
+          "title": "Affidamento esclusivo richiesto",
+          "description": "Caso reale adattato: Affidamento esclusivo richiesto. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "separazioni_005",
+          "title": "Cessione beni in causa",
+          "description": "Caso reale adattato: Cessione beni in causa. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "separazioni_006",
+          "title": "Assegno divorzile",
+          "description": "Caso reale adattato: Assegno divorzile. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "separazioni_007",
+          "title": "Gestione visite genitoriali",
+          "description": "Caso reale adattato: Gestione visite genitoriali. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "separazioni_008",
+          "title": "Spese straordinarie",
+          "description": "Caso reale adattato: Spese straordinarie. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "separazioni_009",
+          "title": "Casa familiare",
+          "description": "Caso reale adattato: Casa familiare. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "separazioni_010",
+          "title": "Contributo scolastico condiviso",
+          "description": "Caso reale adattato: Contributo scolastico condiviso. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        }
+      ]
+    },
+    {
+      "id": "contro_stato",
+      "title": "Processi contro lo Stato",
+      "unlocked_by_default": false,
+      "unlock_cost": 1200,
+      "cases": [
+        {
+          "id": "contro_001",
+          "title": "Multa segnaletica errata",
+          "description": "Caso reale adattato: Multa segnaletica errata. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "contro_002",
+          "title": "Tassa non dovuta",
+          "description": "Caso reale adattato: Tassa non dovuta. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "contro_003",
+          "title": "Sanzione per errore amministrativo",
+          "description": "Caso reale adattato: Sanzione per errore amministrativo. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "contro_004",
+          "title": "Indennizzo per lavori pubblici",
+          "description": "Caso reale adattato: Indennizzo per lavori pubblici. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "contro_005",
+          "title": "Risarcimento per disservizi",
+          "description": "Caso reale adattato: Risarcimento per disservizi. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "contro_006",
+          "title": "Esproprio terreno",
+          "description": "Caso reale adattato: Esproprio terreno. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "contro_007",
+          "title": "Cartella esattoriale errata",
+          "description": "Caso reale adattato: Cartella esattoriale errata. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "contro_008",
+          "title": "Multe seriali non notificate",
+          "description": "Caso reale adattato: Multe seriali non notificate. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "contro_009",
+          "title": "Tassa comunale contestata",
+          "description": "Caso reale adattato: Tassa comunale contestata. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "contro_010",
+          "title": "Rimborso per servizio inefficiente",
+          "description": "Caso reale adattato: Rimborso per servizio inefficiente. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        }
+      ]
+    },
+    {
+      "id": "minori_crimini",
+      "title": "Crimini Minori",
+      "unlocked_by_default": false,
+      "unlock_cost": 1000,
+      "cases": [
+        {
+          "id": "minori_001",
+          "title": "Furto al supermercato",
+          "description": "Caso reale adattato: Furto al supermercato. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "minori_002",
+          "title": "Danneggiamento auto",
+          "description": "Caso reale adattato: Danneggiamento auto. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "minori_003",
+          "title": "Ubriachezza molesta",
+          "description": "Caso reale adattato: Ubriachezza molesta. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "minori_004",
+          "title": "Lite verbale con minacce",
+          "description": "Caso reale adattato: Lite verbale con minacce. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "minori_005",
+          "title": "Lancio di oggetti",
+          "description": "Caso reale adattato: Lancio di oggetti. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "minori_006",
+          "title": "Schiamazzi notturni",
+          "description": "Caso reale adattato: Schiamazzi notturni. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "minori_007",
+          "title": "Tentato furto in bici",
+          "description": "Caso reale adattato: Tentato furto in bici. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "minori_008",
+          "title": "Imbrattamento muri",
+          "description": "Caso reale adattato: Imbrattamento muri. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "minori_009",
+          "title": "Piccola truffa online",
+          "description": "Caso reale adattato: Piccola truffa online. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "minori_010",
+          "title": "Abuso di petardi in luogo pubblico",
+          "description": "Caso reale adattato: Abuso di petardi in luogo pubblico. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        }
+      ]
+    },
+    {
+      "id": "crimini",
+      "title": "Crimini (gravi)",
+      "unlocked_by_default": false,
+      "unlock_cost": 1800,
+      "cases": [
+        {
+          "id": "crimini_001",
+          "title": "Spaccio sostanze leggere",
+          "description": "Caso reale adattato: Spaccio sostanze leggere. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_002",
+          "title": "Rapina in farmacia",
+          "description": "Caso reale adattato: Rapina in farmacia. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_003",
+          "title": "Rapimento lampo",
+          "description": "Caso reale adattato: Rapimento lampo. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_004",
+          "title": "Aggressione armata",
+          "description": "Caso reale adattato: Aggressione armata. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_005",
+          "title": "Tentata rapina bancomat",
+          "description": "Caso reale adattato: Tentata rapina bancomat. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_006",
+          "title": "Estorsione in quartiere",
+          "description": "Caso reale adattato: Estorsione in quartiere. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_007",
+          "title": "Ricettazione di beni rubati",
+          "description": "Caso reale adattato: Ricettazione di beni rubati. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_008",
+          "title": "Uso arma impropria",
+          "description": "Caso reale adattato: Uso arma impropria. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_009",
+          "title": "Sequestro temporaneo",
+          "description": "Caso reale adattato: Sequestro temporaneo. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_010",
+          "title": "Spaccio con recidiva",
+          "description": "Caso reale adattato: Spaccio con recidiva. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        }
+      ]
+    },
+    {
+      "id": "crimini_superiori",
+      "title": "Crimini Superiori",
+      "unlocked_by_default": false,
+      "unlock_cost": 2000,
+      "cases": [
+        {
+          "id": "crimini_001",
+          "title": "Omicidio volontario",
+          "description": "Caso reale adattato: Omicidio volontario. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_002",
+          "title": "Tentato omicidio",
+          "description": "Caso reale adattato: Tentato omicidio. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_003",
+          "title": "Concorso in omicidio",
+          "description": "Caso reale adattato: Concorso in omicidio. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_004",
+          "title": "Strage colposa",
+          "description": "Caso reale adattato: Strage colposa. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_005",
+          "title": "Femminicidio",
+          "description": "Caso reale adattato: Femminicidio. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_006",
+          "title": "Duplice omicidio",
+          "description": "Caso reale adattato: Duplice omicidio. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_007",
+          "title": "Omicidio per vendetta",
+          "description": "Caso reale adattato: Omicidio per vendetta. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_008",
+          "title": "Omicidio durante rapina",
+          "description": "Caso reale adattato: Omicidio durante rapina. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_009",
+          "title": "Assassinio premeditato",
+          "description": "Caso reale adattato: Assassinio premeditato. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        },
+        {
+          "id": "crimini_010",
+          "title": "Tentato omicidio plurimo",
+          "description": "Caso reale adattato: Tentato omicidio plurimo. Descrizione dettagliata dei fatti, testimonianze e contesto legale.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soluzione A: Decisione conforme alle norme."
+            },
+            {
+              "id": "B",
+              "text": "Soluzione B: Decisione alternativa."
+            },
+            {
+              "id": "C",
+              "text": "Soluzione C: Non prendere alcuna misura."
+            }
+          ],
+          "correct_option_id": "A",
+          "law_refs": [
+            "Costituzione Italiana",
+            "Codice Civile"
+          ],
+          "reward": 500,
+          "penalty": -100,
+          "help_text": "Analizza le prove e i principi costituzionali prima di decidere.",
+          "help_cost": 100
+        }
+      ]
+    }
+  ]
+}
